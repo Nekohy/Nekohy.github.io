@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>花月姬</title>
+        <link>https://baka.host/</link>
+        <description>Recent content on 花月姬</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <lastBuildDate>Wed, 09 Apr 2025 22:34:44 +0800</lastBuildDate><atom:link href="https://baka.host/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>About</title>
+        <link>https://baka.host/about/</link>
+        <pubDate>Wed, 09 Apr 2025 22:34:44 +0800</pubDate>
+        
+        <guid>https://baka.host/about/</guid>
+        <description>&lt;h1 id=&#34;简介&#34;&gt;简介
+&lt;/h1&gt;&lt;p&gt;一个笨蛋，什么也不会&lt;/p&gt;
+&lt;h1 id=&#34;状态&#34;&gt;状态
+&lt;/h1&gt;&lt;p&gt;&lt;img src=&#34;https://github-readme-stats.vercel.app/api?username=Nekohy&amp;amp;bg_color=FFFFFF4D&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Nekohy’s GitHub stats&#34;
+	
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>RAX3000M折腾日记</title>
+        <link>https://baka.host/posts/rax3000m/</link>
+        <pubDate>Wed, 09 Apr 2025 22:03:56 +0800</pubDate>
+        
+        <guid>https://baka.host/posts/rax3000m/</guid>
+        <description>&lt;h1 id=&#34;待定&#34;&gt;待定
+&lt;/h1&gt;&lt;p&gt;咕咕咕&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Friends</title>
+        <link>https://baka.host/friends/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://baka.host/friends/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>搜索</title>
+        <link>https://baka.host/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://baka.host/search/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>
